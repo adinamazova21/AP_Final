@@ -1,10 +1,12 @@
 # AP_Final
 Link
+
 YouTube video:
 https://youtu.be/CkffSMYp4DM
 
 
 Idea proposal
+
 •	Problem or idea description
 The idea of the project is to create a film recommendation system. Also, user should see general ratings.
 
@@ -36,6 +38,7 @@ During completion of the project, the solution will have greater clarity.
 
 
 Work process
+
 For this project TMDB 5000 Movie Dataset on Kaggle dataset was implemented. It consists of 2 datasets: credits and movies.
 Credits dataset consists of 4803 rows and 4 columns (Figure 1) and no zero values (Figure 2).
 
@@ -124,6 +127,7 @@ Final project on movie recommendation system was made for the Advanced Programmi
 
 
 Literature review
+
 1.	https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 2.	https://www.kaggle.com/code/ibtesama/getting-started-with-a-movie-recommendation-system/notebook
 3.	https://youtube.com/watch?v=ijtxuF_5kEU&si=EnSIkaIECMiOmarE
