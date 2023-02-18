@@ -12,8 +12,11 @@ The idea of the project is to create a film recommendation system. Also, user sh
 For data, which is one of the most important parts of machine learning systems, library that contains movie with ratings dataset is needed. For movie recommendation for user, content-based filtering will be implemented. This type of filtering provides movie filtration based on one user’s film choices. 
 
 •	Available solutions with links
+
 Netflix - https://www.netflix.com
+
 YouTube - https://www.youtube.com
+
 Ivi - https://www.ivi.ru
 
 •	How to get the data?
