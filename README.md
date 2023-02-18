@@ -38,6 +38,7 @@ During completion of the project, the solution will have greater clarity.
 Work process
 For this project TMDB 5000 Movie Dataset on Kaggle dataset was implemented. It consists of 2 datasets: credits and movies.
 Credits dataset consists of 4803 rows and 4 columns (Figure 1) and no zero values (Figure 2).
+
  <img width="356" alt="image" src="https://user-images.githubusercontent.com/125748426/219877971-64fd6050-9bdc-4f31-a232-e7d9c6311273.png">
 
 Figure 1
@@ -47,6 +48,7 @@ Figure 1
 Figure 2
 
 Movies dataset consists of 4803 rows and 20 columns (Figure 3) and some null values (Figure 4).
+
  <img width="317" alt="image" src="https://user-images.githubusercontent.com/125748426/219878008-cc7cc30b-0cae-4653-8277-6f2cb94a3259.png">
 
 Figure 3
@@ -57,11 +59,13 @@ Figure 3
 Figure 4
 
 Credits and movies datasets were merged by their ids (Figure 5).
+
  <img width="356" alt="image" src="https://user-images.githubusercontent.com/125748426/219878040-5248004d-7454-44d2-aafa-446a8abc6ace.png">
 
 Figure 5
 
 After that weighted scores of movies were calculated (Figure 6) and demonstrated in the table (Figure 7). 
+
  <img width="347" alt="image" src="https://user-images.githubusercontent.com/125748426/219878057-c94e6ccb-389d-4a44-8b76-1b9b58ae082e.png">
 
 Figure 6
@@ -71,6 +75,7 @@ Figure 6
 Figure 7
 
 Then, table of TOP 15 movies with highest weighted scores (Figure 8), bar charts of TOP 15 popular movies (Figure 9) and TOP 15 movies with high budget (Figure 10) were demonstrated. 
+
  <img width="278" alt="image" src="https://user-images.githubusercontent.com/125748426/219878070-45f14c2e-5786-488a-815e-129be1e894a9.png">
 
 Figure 8
