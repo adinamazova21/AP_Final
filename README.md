@@ -8,9 +8,11 @@ https://youtu.be/CkffSMYp4DM
 Idea proposal
 
 •	Problem or idea description
+
 The idea of the project is to create a film recommendation system. Also, user should see general ratings.
 
 •	Background information on the problem or idea
+
 For data, which is one of the most important parts of machine learning systems, library that contains movie with ratings dataset is needed. For movie recommendation for user, content-based filtering will be implemented. This type of filtering provides movie filtration based on one user’s film choices. 
 
 •	Available solutions with links
@@ -22,10 +24,12 @@ YouTube - https://www.youtube.com
 Ivi - https://www.ivi.ru
 
 •	How to get the data?
+
 There 	TMDB 5000 Movie Dataset on Kaggle datasets, which will be helpful for getting the data for movie recommendation system.
 
 
 •	Brief description of the solution
+
 For movie recommendation system:
 1.	Movie dataset;
 2.	General ratings of movies;
@@ -33,6 +37,7 @@ For movie recommendation system:
 During completion of the project, the solution will have greater clarity.
 
 •	Tech stack that will be used:
+
 1.	Python as programming language;
 2.	Jupyter Notebook for interactive computational environment and others.
 
