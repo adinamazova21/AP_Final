@@ -119,6 +119,7 @@ Figure 14
 
 
 Conclusion 
+
 Final project on movie recommendation system was made for the Advanced Programming course. For this, knowledge and skills acquired from lectures, practice sessions and self-education was used. As a result, skills, including coding in Python programming language, precepting and understanding machine learning and deep learning and so on, have been acquired and deepened.
 
 
