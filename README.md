@@ -93,22 +93,26 @@ Next was finding movies with similar overviews by implementing steps of:
 2.	Replacing Nan values by empty space,
 3.	Fitting and transforming data 
 4.	Cosine similarity matrix creation and others (Figure 11).
+
  <img width="295" alt="image" src="https://user-images.githubusercontent.com/125748426/219878103-2c6f14e4-2e53-4a30-8743-45b965cf0b21.png">
 
 Figure 11
 
 Therefore, search was expanded to similar genres, keywords, cast and director name, if it was known (Figure 12).
+
  <img width="331" alt="image" src="https://user-images.githubusercontent.com/125748426/219878107-c895d952-57cf-421a-98fa-b16e605cdea0.png">
 
 Figure 12
 
 After that, collecting data and values, putting them in vectorizer, calculating cosine similarity, resetting index of movies dataset and performing reverse mapping were introduced (Figure 13).
+
  <img width="319" alt="image" src="https://user-images.githubusercontent.com/125748426/219878120-ef8f7626-7337-465b-b5ff-6157a0ab564d.png">
  <img width="313" alt="image" src="https://user-images.githubusercontent.com/125748426/219878125-2d1ecb9a-ad09-4c40-8068-5fffae2f4da6.png">
 
 Figure 13
 
 Finally, we got 15 movie recommendations by the movie we chose, based on different features such as overview, genre, cast, keywords and director (Figure 14).
+
  <img width="347" alt="image" src="https://user-images.githubusercontent.com/125748426/219878134-1952b2fd-e345-427b-8d67-ecd202b86ee2.png">
 
 Figure 14
